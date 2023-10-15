@@ -23,11 +23,11 @@ Follow these steps to get started with the CRUD application:
 
 **Clone the Repository**:
 
-``git clone https://github.com/yourusername/your-repo.git``
+``git clone https://github.com/Saurabh-DevOpsVoyager77/simple-crud-app-react-nodejs.git``
 
 **Change Directory**:
 
-``cd your-repo``
+``cd simple-crud-app-react-nodejs/``
 
 **Start the Application**:
 
