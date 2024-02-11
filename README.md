@@ -39,7 +39,7 @@ This will set up the application, and you can access it via your web browser fro
 
 **Application Details**
 
-This CRUD application is designed to showcase how to create, retrieve, update, and delete items from a data source using React and Node.js. You can use this project as a starting point for building your own CRUD applications or as a learning resource to understand the integration of React and Node.js.
+This CRUD application is designed to showcase how to create, retrieve, update, and delete items from a data source using React and Node.js. You can use this project as a starting point for building your own CRUD applications or as a learning resource to understand the integration of React and Node.js
 
 After navigating to http://localhost:8080, you will be presented with the frontend interface, exemplified in the image below. This interface serves as the user-friendly portal to interact with the application, enabling you to create, read, update, and delete data entries seamlessly.
 
